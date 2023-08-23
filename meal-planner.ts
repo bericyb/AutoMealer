@@ -11,7 +11,7 @@ export const MY_PHONE_NUMBER = process.env.MY_PHONE_NUMBER!;
 export const WIFE_PHONE_NUMBER = process.env.WIFE_PHONE_NUMBER!;
 export const RECIPIENT_PHONE_NUMBERS = [
   process.env.MY_PHONE_NUMBER!,
-  // process.env.WIFE_PHONE_NUMBER!,
+  process.env.WIFE_PHONE_NUMBER!,
   // Add any other numbers you want here
 ];
 
