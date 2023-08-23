@@ -56,6 +56,8 @@ function processResponses() {
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
+const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+console.log("Server Timezone:", timeZone);
 
 // Setting up the cron job
 // This will send meal suggestions every 2 days at 9 AM
