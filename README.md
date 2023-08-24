@@ -20,7 +20,7 @@ AutoMealer is an automated meal suggestion and planning tool that sends text mes
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/automealer.git
+git clone https://github.com/bericyb/automealer.git
 cd automealer
 ```
 
@@ -66,7 +66,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
----
-
-Feel free to adjust this template as needed, especially the repository URL, features, and other details specific to your project!
